@@ -29,3 +29,8 @@ Using first DNN process to analyse dates of stocks and finally giving out a list
 
 When we turn to the second DNN process, two agents will be "imported" and play with roles between **Costumer** and **Trader**. During one dialogue, we plan to give adjusted values for each stocks (Because, each player dones not know its partener's strategie. For example, some custumers want to keep their stocks which have a small volatility index, but traders just want to take over the stocks with the highest ROI from custumer, that's why we give a adjusted values for each stock), the number of all stocks will limited between **X** to **Y**, and amount of stocks' values for both each player will equal to **Z**.
 
+## **Challenge**
+
+How to find a good dataset to train our test model will be the most important challenge for me.
+
+
