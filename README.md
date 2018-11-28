@@ -14,8 +14,13 @@ The programs trains neural networks to hold negotiations in natural language, an
 
 
 
-## **Process Design**
+## **Process Design of Finance**
 
+<img src="https://github.com/linzhou-zhong/DNN-and-ML-in-Finance/blob/master/graphic-process/process-finance.png" width="30%" height="30%">
+
+## **Process Design of Negotiation**
+
+<img src="https://github.com/linzhou-zhong/DNN-and-ML-in-Finance/blob/master/graphic-process/process-negotiation.png" width="30%" height="30%">
 
 ## **More details of process design**
 
